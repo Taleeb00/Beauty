@@ -1,0 +1,153 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+nav img{
+    width: 70px;
+    border-radius: 50%;
+}
+.ul_class{
+    flex-grow: 1; 
+    justify-content: flex-end;
+}
+.carousel_img{
+    width: 100%;
+    padding-bottom: 1px;
+}
+.main_first{
+    background-image: linear-gradient( 0deg , rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url(../imgs/q.jpg);
+    width: 100%;
+    padding: 50px 0px 100px 0px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.studio_services{
+    color:#CD825B;
+    text-align: center;
+  
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.services_para{
+    text-align: center;
+    color: #CD825B;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+.Services{
+    background-color: white;
+   
+    margin-top: 60px;
+    
+    
+}
+.Services img{
+    width: 100%;
+   
+    text-align: center;
+     margin: auto;
+    padding-top: 10px;
+    border-radius: 2rem;
+}
+.inner_services{
+    text-align: center;
+    
+
+}
+.inner_services a{
+    text-decoration: none !important; 
+}
+.inner_services_h1{
+    font-size: 20px;
+    color: #CD825B;    
+}
+.inner_services_h1_a{
+    color: #CD825B !important;
+}
+.inner_services_h2{
+    font-size: 20px; 
+    color: #CD825B;
+}
+.about_studio{
+    width: 100%;
+   padding: 10px 30px;
+    background-color: #fde7db;
+    border-radius: 30rem 30rem 0rem 0rem;
+    
+   
+}
+.about_studio h1{
+    text-align: center;
+    padding-top: 30px;
+    color: #CD825B;
+}
+.about_studio_para{
+    text-align: center;    
+}
+.Deluxe_Manicure{
+    background-color: #CD825B;
+    width: 100%;
+    padding: 40px;
+
+    
+}
+.Deluxe_Manicure_txt{
+    background-color: white;
+   
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.Deluxe_Manicure_btn{
+    background-color: #CD825B;
+    border: none;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+body a{
+    text-decoration: none;
+}
+.needs{
+    background-color: #EFE5DB;
+    
+}
+.need_para{
+    line-height: 40px;
+}
+ul li{
+    line-height: 40px;
+    font-size: 20px;
+    color: #CD825B;
+
+}
+ul li a{
+    text-decoration: none;
+    color: #CD825B;
+}
+.footer_main{
+    background-color: black;
+    
+}
+.footer{
+    text-align: center;
+    color: wheat;
+}
+.down_nav{
+    color: white;
+}
+.d-flex li{
+    margin-left: 12px;
+}
+.d-flex i{
+    margin-left: 15px;
+}
+/*-----about us----*/
+.about_us{
+    background-color: #fcf2ed;
+}
+.contact_us{
+    background-color: #fcf2ed;
+}
+.color{
+    color: #CD825B;
+}
